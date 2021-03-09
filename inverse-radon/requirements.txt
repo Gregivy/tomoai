@@ -1,0 +1,11 @@
+tensorflow-gpu==2.4.1
+jupyterlab==2.2.8
+matplotlib==3.3.2
+opencv-python
+Pillow==8.0.0
+pydot==1.4.1
+tensorflow-addons
+tensorflow-datasets
+scipy
+scikit-image==0.17.2
+ipywidgets
